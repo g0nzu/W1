@@ -1,3 +1,4 @@
+//hola
 let questions = [
   {
     letter: "a",
@@ -499,3 +500,4 @@ const ranking = () => {
     actualQuestion.innerHTML += `${users[i].name}: ${users[i].points} puntos<br>`;
   }
 };
+
